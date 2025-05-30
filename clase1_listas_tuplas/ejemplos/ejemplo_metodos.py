@@ -2,6 +2,7 @@
 
 productos = ["cuaderno", "lápiz", "borrador"]
 
+
 # Agrega un producto al final
 productos.append("regla")
 print(productos)
