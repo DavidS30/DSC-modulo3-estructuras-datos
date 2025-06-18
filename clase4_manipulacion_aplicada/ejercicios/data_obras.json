@@ -1,0 +1,82 @@
+[
+    {
+        "id": "A001",
+        "titulo": "Atardecer Digital",
+        "artista": "C. Pixel",
+        "anio_creacion": 2022,
+        "precio_estimado": 1500.00,
+        "tags": ["paisaje", "digital", "minimalista"]
+    },
+    {
+        "id": "A002",
+        "titulo": "Retrato Abstracto  ",
+        "artista": "A. Vector",
+        "anio_creacion": 2018,
+        "precio_estimado": 0.00,
+        "tags": ["retrato", "abstracto"]
+    },
+    {
+        "id": "A003",
+        "titulo": "Metropolis Cyberpunk",
+        "artista": "B. Synth",
+        "anio_creacion": 2023,
+        "precio_estimado": 2500.50,
+        "tags": ["urbano", "digital", "ciencia ficcion"]
+    },
+    {
+        "id": "A004",
+        "titulo": "Flor Futurista",
+        "artista": "",
+        "anio_creacion": "2020",
+        "precio_estimado": 800.00,
+        "tags": []
+    },
+    {
+        "id": "A005",
+        "titulo": "El Grito de la Red",
+        "artista": "C. Pixel",
+        "anio_creacion": 1893,
+        "precio_estimado": 1200.00,
+        "tags": ["expresionismo", "digital"]
+    },
+    {
+        "id": "A006",
+        "titulo": "Sueño Algorítmico",
+        "artista": "D. Render",
+        "anio_creacion": 2021,
+        "precio_estimado": 1800.00,
+        "tags": ["onírico", "digital", "colorido"]
+    },
+    {
+        "id": "A007",
+        "titulo": "Geometría Infinita",
+        "artista": "A. Vector",
+        "anio_creacion": 2019,
+        "precio_estimado": 950.00,
+        "tags": ["abstracto", "geometría", "digital"]
+    },
+    {
+        "id": "A008",
+        "titulo": "Bosque Virtual",
+        "artista": "B. Synth",
+        "anio_creacion": 2023,
+        "precio_estimado": 2100.00,
+        "tags": ["naturaleza", "digital", "realismo"]
+    },
+    {
+        "id": "A009",
+        "titulo": "Reflejo Binario",
+        "artista": "C. Pixel",
+        "anio_creacion": 2020,
+        "precio_estimado": 1300.00,
+        "tags": ["minimalista", "digital", "blanco y negro"]
+    },
+    {
+        "id": "A010",
+        "titulo": "Aurora de Datos",
+        "artista": "E. Byte",
+        "anio_creacion": 2022,
+        "precio_estimado": 1750.00,
+        "tags": ["paisaje", "digital", "futurista"]
+    }
+]
