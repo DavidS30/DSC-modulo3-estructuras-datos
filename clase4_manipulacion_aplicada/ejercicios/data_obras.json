@@ -60,7 +60,7 @@
         "titulo": "Bosque Virtual",
         "artista": "B. Synth",
         "anio_creacion": 2023,
-        "precio_estimado": 2100.00,
+        "precio_estimado": 2100.000,
         "tags": ["naturaleza", "digital", "realismo"]
     },
     {
@@ -76,7 +76,7 @@
         "titulo": "Aurora de Datos",
         "artista": "E. Byte",
         "anio_creacion": 2022,
-        "precio_estimado": 1750.00,
+        "precio_estimado": 1750.000,
         "tags": ["paisaje", "digital", "futurista"]
     }
 ]
